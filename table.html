@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Table</title>
+    </head>
+    <body>
+        <table id ="menuTable" border = "1" class = "indent">
+            <thead>
+                <tr>
+                    <th colspan="3">Paddy's Menu</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <xsl:for-each select = "//section">
+                    <tr>
+                        <td colspan="3">
+                            <xsl:value-of select = "@name" />
+                        </td>
+                    </tr>
+                <xsl:for-each select = "entry">
+                    <tr>
+                        <xsl:attribute name = "vegetarian">
+                            <xsl:value-of select = "boolean(@vegetarian)"/>
+
+                        </xsl:attribute>
+                        <td align = "center">
+                            <input name = "item0" type ="checkbox"/>
+                        </td>
+                    </tr>
+                </xsl:for-each>
+                </xsl:for-each>
+                
+            </tbody>
+
+
+
+
+        </table>
+    </body>
+</html>
