@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <section name="Drinks">
+        <entry>
+            <item>Coke</item>
+            <price>2.50</price>
+        </entry>
+        <entry>
+            <item>Lonza</item>
+            <price>3.50</price>
+        </entry>
+        <entry vegeterian = "true">
+            <item>Kombucha</item>
+            <price>12.50</price>
+        </entry>
+    </section>
+
+    <section name="Side dishes">
+        <entry>
+            <item>Brazillian Krakoska</item>
+            <price>69</price>
+        </entry>
+        <entry>
+            <item>French Fries</item>
+            <price>4.50</price>
+        </entry>
+        <entry vegeterian = "true">Veg Krakoska</entry>
+        <price>6.99</price>
+    </section>
+    <section name ="Dinner">
+        <entry>
+        <item>Beef Casserole</item>
+        <price>9.50</price>
+        </entry>
+        <entry vegeterian = "true">
+            <item>Veg Lasanhe</item>
+            <price>6.69</price>
+        </entry>
+
+
+    </section>
+
+
+
+</menu>
