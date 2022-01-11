@@ -2,105 +2,111 @@
 <menu>
   <section name="Monday">
     <entry>
-      <exercise>Push Ups</exercise>
-      <series>3x15</series>
-      <interval>2</interval>
+      <item>Coke</item>
+      <price>2.50</price>
+      <rest>2min</rest>
     </entry>
     <entry>
-      <item/>
-      <price/>
+      <item>Vodka</item>
+      <price>15</price>
+    </entry>
+    <entry vegetarian="true">
+      <item>Kombucha</item>
+      <price>2.0</price>
     </entry>
     <entry>
-      <item/>
-      <price/>
+      <item>Push Ups</item>
+      <price>2x15</price>
+      <rest>3min</rest>
     </entry>
   </section>
   <section name="Tuesday">
     <entry>
-      <exercise>Potato Salad</exercise>
-      <series>4.95</series>
+      <item>Potato Salad</item>
+      <price>4.95</price>
     </entry>
     <entry>
-      <exercise>Chips</exercise>
-      <series>4.50</series>
+      <item>Chips</item>
+      <price>4.50</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>Rice</exercise>
-      <series>4.0</series>
-    </entry>
-    <entry>
-      <item/>
-      <price/>
+      <item>Rice</item>
+      <price>4.0</price>
     </entry>
   </section>
   <section name="Wednesday">
     <entry>
-      <exercise>Eggs Benedict</exercise>
-      <series>12.99</series>
+      <item>Eggs Benedict</item>
+      <price>12.99</price>
     </entry>
     <entry>
-      <exercise>Poached Eggs</exercise>
-      <series>8</series>
+      <item>Poached Eggs</item>
+      <price>8</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>FrenchToast</exercise>
-      <series>2.0</series>
+      <item>FrenchToast</item>
+      <price>2.0</price>
     </entry>
   </section>
   <section name="Thursday">
     <entry>
-      <exercise>Grilled Chicken Sadnwich</exercise>
-      <series>7.50</series>
+      <item>Grilled Chicken Sadnwich</item>
+      <price>7.50</price>
     </entry>
     <entry>
-      <exercise>Soup of the Day</exercise>
-      <series>6</series>
+      <item>Soup of the Day</item>
+      <price>6</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>Falafel</exercise>
-      <series>10</series>
+      <item>Falafel</item>
+      <price>10</price>
     </entry>
   </section>
   <section name="Friday">
     <entry>
-      <exercise>Ribeye Steak</exercise>
-      <series>19.99</series>
+      <item>Ribeye Steak</item>
+      <price>19.99</price>
     </entry>
     <entry>
-      <exercise>Sushi</exercise>
-      <series>15</series>
+      <item>Sushi</item>
+      <price>15</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>Shahshuka</exercise>
-      <series>15</series>
+      <item>Shahshuka</item>
+      <price>15</price>
     </entry>
   </section>
   <section name="Saturday">
     <entry>
-      <exercise>Ribeye Steak</exercise>
-      <series>19.99</series>
+      <item>Ribeye Steak</item>
+      <price>19.99</price>
     </entry>
     <entry>
-      <exercise>Sushi</exercise>
-      <series>15</series>
+      <item>Sushi</item>
+      <price>15</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>Shahshuka</exercise>
-      <series>15</series>
+      <item>Shahshuka</item>
+      <price>15</price>
     </entry>
   </section>
   <section name="Sunday">
     <entry>
-      <exercise>Ribeye Steak</exercise>
-      <series>19.99</series>
+      <item>Ribeye Steak</item>
+      <price>19.99</price>
     </entry>
     <entry>
-      <exercise>Sushi</exercise>
-      <series>15</series>
+      <item>Sushi</item>
+      <price>15</price>
     </entry>
     <entry vegetarian="true">
-      <exercise>Shahshuka</exercise>
-      <series>15</series>
+      <item>Shahshuka</item>
+      <price>15</price>
+    </entry>
+    <entry>
+      <item>chin ups</item>
+      <price>2 x 10</price>
+      <rest>1min</rest>
     </entry>
   </section>
 </menu>

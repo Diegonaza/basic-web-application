@@ -6,14 +6,14 @@
         <tr>
             <th>Select</th>
             <th>Exercise</th>
-            <th>Interval</th>
             <th>Series</th>
+            <th>Rest</th>
         </tr>
     </thead>
     <tbody>
         <xsl:for-each select="//section">
             <tr>
-                <td colspan="4">
+                <td colspan="3">
                     <xsl:value-of select="@name" />
                 </td>
             </tr>
@@ -26,13 +26,13 @@
                         <input name="item0" type="checkbox" />
                     </td>
                     <td>
-                        <xsl:value-of select="exercise" />
-                    </td>
-                    <td>
-                        <xsl:value-of select="interval" />
+                        <xsl:value-of select="item" />
                     </td>
                     <td align="right">
-                        <xsl:value-of select="series" />
+                        <xsl:value-of select="price" />
+                    </td>
+                    <td align="right">
+                        <xsl:value-of select="rest" />
                     </td>
                 </tr>
             </xsl:for-each>
