@@ -2,111 +2,111 @@
 <menu>
   <section name="Monday">
     <entry>
-      <item>Coke</item>
-      <price>2.50</price>
-      <rest>2min</rest>
+      <item>Jumping Jack</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>Vodka</item>
-      <price>15</price>
-    </entry>
-    <entry vegetarian="true">
-      <item>Kombucha</item>
-      <price>2.0</price>
+      <item>Crunch</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>Push Ups</item>
-      <price>2x15</price>
-      <rest>3min</rest>
+      <item>Push ups</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
   </section>
   <section name="Tuesday">
     <entry>
-      <item>Potato Salad</item>
-      <price>4.95</price>
+      <item>Squats</item>
+      <price>3 x 12</price>
+      <rest>2 min</rest>
     </entry>
     <entry>
-      <item>Chips</item>
-      <price>4.50</price>
+      <item>Lunges</item>
+      <price>3 x 10</price>
+      <rest>1 min</rest>
     </entry>
-    <entry vegetarian="true">
-      <item>Rice</item>
-      <price>4.0</price>
+    <entry>
+      <item>Sit ups</item>
+      <price>2 x 10</price>
+      <rest>1 min</rest>
     </entry>
   </section>
   <section name="Wednesday">
     <entry>
-      <item>Eggs Benedict</item>
-      <price>12.99</price>
+      <item>Jumping Jack</item>
+      <price>4 x 12</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>Poached Eggs</item>
-      <price>8</price>
+      <item>Butt kicks</item>
+      <price>3 x 12</price>
+      <rest>1 min</rest>
     </entry>
-    <entry vegetarian="true">
-      <item>FrenchToast</item>
-      <price>2.0</price>
+    <entry>
+      <item>Push ups</item>
+      <price>3 x 10</price>
+      <rest>1 min</rest>
     </entry>
   </section>
   <section name="Thursday">
     <entry>
-      <item>Grilled Chicken Sadnwich</item>
-      <price>7.50</price>
-    </entry>
-    <entry>
-      <item>Soup of the Day</item>
-      <price>6</price>
-    </entry>
-    <entry vegetarian="true">
-      <item>Falafel</item>
-      <price>10</price>
+      <item>Rest</item>
+      <price/>
+      <rest/>
     </entry>
   </section>
   <section name="Friday">
     <entry>
-      <item>Ribeye Steak</item>
-      <price>19.99</price>
+      <item>Jumping Jack</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>Sushi</item>
-      <price>15</price>
+      <item>Crunch</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
-    <entry vegetarian="true">
-      <item>Shahshuka</item>
-      <price>15</price>
+    <entry>
+      <item>Push ups</item>
+      <price>3 x 15</price>
+      <rest>1 min</rest>
     </entry>
   </section>
   <section name="Saturday">
     <entry>
-      <item>Ribeye Steak</item>
-      <price>19.99</price>
+      <item>Squats</item>
+      <price>3 x 12</price>
+      <rest>2 min</rest>
     </entry>
     <entry>
-      <item>Sushi</item>
-      <price>15</price>
+      <item>Lunges</item>
+      <price>3 x 10</price>
+      <rest>1 min</rest>
     </entry>
-    <entry vegetarian="true">
-      <item>Shahshuka</item>
-      <price>15</price>
+    <entry>
+      <item>Sit ups</item>
+      <price>2 x 10</price>
+      <rest>1 min</rest>
     </entry>
   </section>
   <section name="Sunday">
     <entry>
-      <item>Ribeye Steak</item>
-      <price>19.99</price>
+      <item>Jumping Jack</item>
+      <price>4 x 12</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>Sushi</item>
-      <price>15</price>
-    </entry>
-    <entry vegetarian="true">
-      <item>Shahshuka</item>
-      <price>15</price>
+      <item>Butt kicks</item>
+      <price>3 x 12</price>
+      <rest>1 min</rest>
     </entry>
     <entry>
-      <item>chin ups</item>
-      <price>2 x 10</price>
-      <rest>1min</rest>
+      <item>Push ups</item>
+      <price>3 x 10</price>
+      <rest>1 min</rest>
     </entry>
   </section>
 </menu>
