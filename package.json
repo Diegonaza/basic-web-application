@@ -1,23 +1,23 @@
 {
-  "name": "iwa-ca1",
-  "version": "1.0.0",
-  "description": "CA1 Project",
+  "name": "iwa-practical",
+  "version": "0.0.1",
+  "description": "IWA demo project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Diegonaza/iwa-ca1.git"
+    "url": "git+https://github.com/mikhail-cct/iwa-practical.git"
   },
-  "author": "Diego Pinheiro",
+  "author": "Mikhail",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Diegonaza/iwa-ca1/issues"
+    "url": "https://github.com/mikhail-cct/iwa-practical/issues"
   },
-  "homepage": "https://github.com/Diegonaza/iwa-ca1#readme",
+  "homepage": "https://github.com/mikhail-cct/iwa-practical#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "path": "^0.12.7",

@@ -5,14 +5,15 @@
     <thead>
         <tr>
             <th>Select</th>
-            <th>Item</th>
-            <th>Price</th>
+            <th>Exercise</th>
+            <th>Interval</th>
+            <th>Series</th>
         </tr>
     </thead>
     <tbody>
         <xsl:for-each select="//section">
             <tr>
-                <td colspan="3">
+                <td colspan="4">
                     <xsl:value-of select="@name" />
                 </td>
             </tr>
@@ -25,10 +26,13 @@
                         <input name="item0" type="checkbox" />
                     </td>
                     <td>
-                        <xsl:value-of select="item" />
+                        <xsl:value-of select="exercise" />
+                    </td>
+                    <td>
+                        <xsl:value-of select="interval" />
                     </td>
                     <td align="right">
-                        <xsl:value-of select="price" />
+                        <xsl:value-of select="series" />
                     </td>
                 </tr>
             </xsl:for-each>
