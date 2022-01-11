@@ -4,7 +4,7 @@ const express = require('express'),
       http = require('http'),
       path = require('path'),
       xml2js = require('xml2js'),
-      xmlParse = require('xlst-processor').xmlParse,
+      xmlParse = require('xslt-processor').xmlParse,
       xmlProcess = require('xslt-processor').xsltProcess;
 const { xsltProcess } = require('xslt-processor');
 
